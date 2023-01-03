@@ -16,5 +16,6 @@ module.exports = {
     '@typescript-eslint/indent': [2, 2],
     'linebreak-style': 0,
     'import/extensions': 0,
+    'no-underscore-dangle': 0,
   },
 };
