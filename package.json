@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "dev": "webpack -w",
-    "build": "tsc"
+    "build": "tsc -w"
   },
   "keywords": [],
   "author": "",
